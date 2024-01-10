@@ -1,0 +1,985 @@
+{
+    "Scrambled Eggs": {
+        "name": "Scrambled Eggs",
+        "ingredients": [
+            "2 eggs",
+            "Salt",
+            "Pepper",
+            "Butter"
+        ],
+        "instructions": [
+            "Beat eggs, salt, and pepper in a bowl.",
+            "Heat butter in a skillet.",
+            "Pour in the eggs and stir gently until cooked."
+        ],
+        "category": "Breakfast",
+        "calories": 150,
+        "carbs": 2,
+        "protein": 12
+    },
+    "Chicken Salad": {
+        "name": "Chicken Salad",
+        "ingredients": [
+            "1 cup cooked chicken",
+            "1/4 cup mayonnaise",
+            "1 stalk celery, chopped",
+            "Salt",
+            "Pepper"
+        ],
+        "instructions": [
+            "Shred the cooked chicken.",
+            "Mix chicken, mayonnaise, and celery in a bowl.",
+            "Season with salt and pepper to taste."
+        ],
+        "category": "Lunch",
+        "calories": 300,
+        "carbs": 4,
+        "protein": 25
+    },
+    "Spaghetti Bolognese": {
+        "name": "Spaghetti Bolognese",
+        "ingredients": [
+            "200g spaghetti",
+            "250g ground beef",
+            "1 can tomato sauce",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "Salt",
+            "Pepper",
+            "Olive oil"
+        ],
+        "instructions": [
+            "Cook spaghetti according to package instructions.",
+            "In a pan, cook onion and garlic in olive oil.",
+            "Add ground beef and cook until brown.",
+            "Pour in tomato sauce, season with salt and pepper, and simmer.",
+            "Serve the sauce over the cooked spaghetti."
+        ],
+        "category": "Dinner",
+        "calories": 450,
+        "carbs": 70,
+        "protein": 30
+    },
+    "Chocolate Chip Cookies": {
+        "name": "Chocolate Chip Cookies",
+        "ingredients": [
+            "2 cups flour",
+            "1/2 cup sugar",
+            "1/2 cup brown sugar",
+            "1 egg",
+            "1/2 cup butter",
+            "1 tsp vanilla extract",
+            "1 tsp baking soda",
+            "1 cup chocolate chips"
+        ],
+        "instructions": [
+            "Preheat oven to 350\u00b0F (175\u00b0C).",
+            "Cream together butter and sugars, add egg and vanilla.",
+            "Mix in flour and baking soda, fold in chocolate chips.",
+            "Drop spoonfuls of dough onto a baking sheet.",
+            "Bake for 10-12 minutes."
+        ],
+        "category": "Dessert",
+        "calories": 200,
+        "carbs": 30,
+        "protein": 3
+    },
+    "Fruit Smoothie": {
+        "name": "Fruit Smoothie",
+        "ingredients": [
+            "1 banana",
+            "1/2 cup strawberries",
+            "1/2 cup yogurt",
+            "1/2 cup orange juice"
+        ],
+        "instructions": [
+            "Place all ingredients in a blender.",
+            "Blend until smooth.",
+            "Serve chilled."
+        ],
+        "category": "Snack",
+        "calories": 120,
+        "carbs": 28,
+        "protein": 4
+    },
+    "Oatmeal with Berries": {
+        "name": "Oatmeal with Berries",
+        "ingredients": [
+            "Rolled oats",
+            "Water",
+            "Milk",
+            "Mixed berries",
+            "Honey"
+        ],
+        "instructions": [
+            "Cook oats with water and milk",
+            "Top with berries and honey"
+        ],
+        "category": "Breakfast",
+        "calories": 250,
+        "carbs": 45,
+        "protein": 10
+    },
+    "Pancakes": {
+        "name": "Pancakes",
+        "ingredients": [
+            "Flour",
+            "Baking powder",
+            "Milk",
+            "Egg",
+            "Butter",
+            "Maple syrup"
+        ],
+        "instructions": [
+            "Mix ingredients",
+            "Cook on a griddle",
+            "Serve with syrup"
+        ],
+        "category": "Breakfast",
+        "calories": 350,
+        "carbs": 60,
+        "protein": 8
+    },
+    "Yogurt Parfait": {
+        "name": "Yogurt Parfait",
+        "ingredients": [
+            "Greek yogurt",
+            "Granola",
+            "Honey",
+            "Assorted fruits"
+        ],
+        "instructions": [
+            "Layer yogurt, granola, and fruit",
+            "Drizzle with honey"
+        ],
+        "category": "Breakfast",
+        "calories": 200,
+        "carbs": 30,
+        "protein": 12
+    },
+    "Breakfast Burrito": {
+        "name": "Breakfast Burrito",
+        "ingredients": [
+            "Eggs",
+            "Cheese",
+            "Salsa",
+            "Tortillas",
+            "Sausage"
+        ],
+        "instructions": [
+            "Scramble eggs and sausage",
+            "Wrap in tortilla with cheese and salsa"
+        ],
+        "category": "Breakfast",
+        "calories": 400,
+        "carbs": 35,
+        "protein": 20
+    },
+    "Avocado Toast": {
+        "name": "Avocado Toast",
+        "ingredients": [
+            "Bread",
+            "Avocado",
+            "Salt",
+            "Pepper",
+            "Lemon juice"
+        ],
+        "instructions": [
+            "Mash avocado with seasoning",
+            "Spread on toasted bread"
+        ],
+        "category": "Breakfast",
+        "calories": 250,
+        "carbs": 30,
+        "protein": 6
+    },
+    "Banana Bread": {
+        "name": "Banana Bread",
+        "ingredients": [
+            "Flour",
+            "Banana",
+            "Sugar",
+            "Eggs",
+            "Butter",
+            "Baking soda"
+        ],
+        "instructions": [
+            "Mix ingredients",
+            "Bake in oven until done"
+        ],
+        "category": "Breakfast",
+        "calories": 300,
+        "carbs": 50,
+        "protein": 5
+    },
+    "French Toast": {
+        "name": "French Toast",
+        "ingredients": [
+            "Bread",
+            "Eggs",
+            "Milk",
+            "Cinnamon",
+            "Maple syrup"
+        ],
+        "instructions": [
+            "Dip bread in egg mixture",
+            "Cook on griddle",
+            "Serve with syrup"
+        ],
+        "category": "Breakfast",
+        "calories": 350,
+        "carbs": 45,
+        "protein": 10
+    },
+    "Veggie Omelette": {
+        "name": "Veggie Omelette",
+        "ingredients": [
+            "Eggs",
+            "Bell peppers",
+            "Onions",
+            "Cheese",
+            "Spinach"
+        ],
+        "instructions": [
+            "Saute veggies",
+            "Pour beaten eggs",
+            "Cook, fold, and serve"
+        ],
+        "category": "Breakfast",
+        "calories": 200,
+        "carbs": 8,
+        "protein": 15
+    },
+    "Muffins": {
+        "name": "Muffins",
+        "ingredients": [
+            "Flour",
+            "Eggs",
+            "Milk",
+            "Sugar",
+            "Baking powder",
+            "Blueberries"
+        ],
+        "instructions": [
+            "Mix ingredients",
+            "Bake in muffin tins until golden"
+        ],
+        "category": "Breakfast",
+        "calories": 250,
+        "carbs": 40,
+        "protein": 6
+    },
+    "Granola Bars": {
+        "name": "Granola Bars",
+        "ingredients": [
+            "Oats",
+            "Honey",
+            "Peanut butter",
+            "Nuts",
+            "Dried fruits"
+        ],
+        "instructions": [
+            "Mix ingredients",
+            "Press into a pan",
+            "Bake, then slice"
+        ],
+        "category": "Breakfast",
+        "calories": 300,
+        "carbs": 45,
+        "protein": 10
+    },
+    "BLT Sandwich": {
+        "name": "BLT Sandwich",
+        "ingredients": [
+            "Bread",
+            "Bacon",
+            "Lettuce",
+            "Tomato",
+            "Mayo"
+        ],
+        "instructions": [
+            "Layer bacon, lettuce, tomato on bread",
+            "Spread mayo"
+        ],
+        "category": "Lunch",
+        "calories": 400,
+        "carbs": 35,
+        "protein": 18
+    },
+    "Caesar Salad": {
+        "name": "Caesar Salad",
+        "ingredients": [
+            "Romaine lettuce",
+            "Croutons",
+            "Parmesan cheese",
+            "Caesar dressing"
+        ],
+        "instructions": [
+            "Toss lettuce with croutons, cheese, and dressing"
+        ],
+        "category": "Lunch",
+        "calories": 300,
+        "carbs": 20,
+        "protein": 10
+    },
+    "Chicken Caesar Wrap": {
+        "name": "Chicken Caesar Wrap",
+        "ingredients": [
+            "Chicken breast",
+            "Caesar salad",
+            "Tortilla wraps"
+        ],
+        "instructions": [
+            "Fill tortillas with chicken and Caesar salad",
+            "Roll up"
+        ],
+        "category": "Lunch",
+        "calories": 450,
+        "carbs": 40,
+        "protein": 30
+    },
+    "Vegetable Stir-Fry": {
+        "name": "Vegetable Stir-Fry",
+        "ingredients": [
+            "Mixed vegetables",
+            "Soy sauce",
+            "Rice",
+            "Garlic",
+            "Ginger"
+        ],
+        "instructions": [
+            "Stir-fry veggies with garlic, ginger",
+            "Serve over rice"
+        ],
+        "category": "Lunch",
+        "calories": 350,
+        "carbs": 55,
+        "protein": 8
+    },
+    "Tuna Salad": {
+        "name": "Tuna Salad",
+        "ingredients": [
+            "Canned tuna",
+            "Mayo",
+            "Celery",
+            "Onion",
+            "Lettuce"
+        ],
+        "instructions": [
+            "Mix tuna with mayo, celery, onion",
+            "Serve on lettuce"
+        ],
+        "category": "Lunch",
+        "calories": 300,
+        "carbs": 5,
+        "protein": 25
+    },
+    "Quinoa Salad": {
+        "name": "Quinoa Salad",
+        "ingredients": [
+            "Quinoa",
+            "Cherry tomatoes",
+            "Cucumber",
+            "Feta cheese",
+            "Olive oil"
+        ],
+        "instructions": [
+            "Mix cooked quinoa with vegetables, cheese",
+            "Dress with oil"
+        ],
+        "category": "Lunch",
+        "calories": 350,
+        "carbs": 40,
+        "protein": 12
+    },
+    "Turkey Club Sandwich": {
+        "name": "Turkey Club Sandwich",
+        "ingredients": [
+            "Turkey",
+            "Bacon",
+            "Lettuce",
+            "Tomato",
+            "Bread",
+            "Mayo"
+        ],
+        "instructions": [
+            "Layer turkey, bacon, lettuce, tomato on bread",
+            "Add mayo"
+        ],
+        "category": "Lunch",
+        "calories": 450,
+        "carbs": 35,
+        "protein": 25
+    },
+    "Grilled Cheese Sandwich": {
+        "name": "Grilled Cheese Sandwich",
+        "ingredients": [
+            "Bread",
+            "Cheddar cheese",
+            "Butter"
+        ],
+        "instructions": [
+            "Butter bread",
+            "Place cheese between slices",
+            "Grill until golden"
+        ],
+        "category": "Lunch",
+        "calories": 400,
+        "carbs": 30,
+        "protein": 15
+    },
+    "Caprese Salad": {
+        "name": "Caprese Salad",
+        "ingredients": [
+            "Mozzarella cheese",
+            "Tomatoes",
+            "Basil",
+            "Balsamic glaze"
+        ],
+        "instructions": [
+            "Layer cheese and tomatoes",
+            "Top with basil and glaze"
+        ],
+        "category": "Lunch",
+        "calories": 250,
+        "carbs": 10,
+        "protein": 15
+    },
+    "Chicken Noodle Soup": {
+        "name": "Chicken Noodle Soup",
+        "ingredients": [
+            "Chicken",
+            "Noodles",
+            "Carrots",
+            "Celery",
+            "Chicken broth"
+        ],
+        "instructions": [
+            "Boil chicken and vegetables in broth",
+            "Add noodles"
+        ],
+        "category": "Lunch",
+        "calories": 300,
+        "carbs": 35,
+        "protein": 20
+    },
+    "Beef Stir-Fry": {
+        "name": "Beef Stir-Fry",
+        "ingredients": [
+            "Beef strips",
+            "Mixed vegetables",
+            "Soy sauce",
+            "Rice",
+            "Garlic"
+        ],
+        "instructions": [
+            "Stir-fry beef and veggies",
+            "Serve over rice"
+        ],
+        "category": "Dinner",
+        "calories": 500,
+        "carbs": 50,
+        "protein": 35
+    },
+    "Baked Salmon": {
+        "name": "Baked Salmon",
+        "ingredients": [
+            "Salmon fillets",
+            "Lemon",
+            "Olive oil",
+            "Herbs"
+        ],
+        "instructions": [
+            "Bake salmon with lemon, olive oil, and herbs"
+        ],
+        "category": "Dinner",
+        "calories": 400,
+        "carbs": 0,
+        "protein": 30
+    },
+    "Roast Chicken": {
+        "name": "Roast Chicken",
+        "ingredients": [
+            "Whole chicken",
+            "Butter",
+            "Herbs",
+            "Vegetables"
+        ],
+        "instructions": [
+            "Roast chicken with butter and herbs",
+            "Serve with veggies"
+        ],
+        "category": "Dinner",
+        "calories": 600,
+        "carbs": 5,
+        "protein": 45
+    },
+    "Spaghetti Carbonara": {
+        "name": "Spaghetti Carbonara",
+        "ingredients": [
+            "Spaghetti",
+            "Bacon",
+            "Eggs",
+            "Parmesan cheese",
+            "Black pepper"
+        ],
+        "instructions": [
+            "Cook spaghetti",
+            "Mix with bacon, eggs, cheese, and pepper"
+        ],
+        "category": "Dinner",
+        "calories": 550,
+        "carbs": 60,
+        "protein": 25
+    },
+    "Vegetable Lasagna": {
+        "name": "Vegetable Lasagna",
+        "ingredients": [
+            "Lasagna noodles",
+            "Ricotta cheese",
+            "Spinach",
+            "Tomato sauce",
+            "Mozzarella cheese"
+        ],
+        "instructions": [
+            "Layer noodles with cheese, spinach, sauce",
+            "Bake"
+        ],
+        "category": "Dinner",
+        "calories": 450,
+        "carbs": 40,
+        "protein": 20
+    },
+    "Beef Tacos": {
+        "name": "Beef Tacos",
+        "ingredients": [
+            "Ground beef",
+            "Taco shells",
+            "Lettuce",
+            "Tomato",
+            "Cheese"
+        ],
+        "instructions": [
+            "Cook beef",
+            "Fill taco shells with beef and toppings"
+        ],
+        "category": "Dinner",
+        "calories": 350,
+        "carbs": 25,
+        "protein": 20
+    },
+    "Pesto Pasta": {
+        "name": "Pesto Pasta",
+        "ingredients": [
+            "Pasta",
+            "Pesto sauce",
+            "Parmesan cheese"
+        ],
+        "instructions": [
+            "Cook pasta",
+            "Mix with pesto sauce",
+            "Top with cheese"
+        ],
+        "category": "Dinner",
+        "calories": 500,
+        "carbs": 60,
+        "protein": 15
+    },
+    "Butter Chicken": {
+        "name": "Butter Chicken",
+        "ingredients": [
+            "Chicken",
+            "Butter",
+            "Cream",
+            "Tomato sauce",
+            "Spices"
+        ],
+        "instructions": [
+            "Cook chicken in butter, cream, sauce, and spices"
+        ],
+        "category": "Dinner",
+        "calories": 550,
+        "carbs": 10,
+        "protein": 30
+    },
+    "Fajitas": {
+        "name": "Fajitas",
+        "ingredients": [
+            "Chicken or beef",
+            "Bell peppers",
+            "Onions",
+            "Tortillas",
+            "Fajita seasoning"
+        ],
+        "instructions": [
+            "Cook meat and veggies with seasoning",
+            "Serve in tortillas"
+        ],
+        "category": "Dinner",
+        "calories": 400,
+        "carbs": 35,
+        "protein": 25
+    },
+    "Stuffed Bell Peppers": {
+        "name": "Stuffed Bell Peppers",
+        "ingredients": [
+            "Bell peppers",
+            "Ground beef or turkey",
+            "Rice",
+            "Tomato sauce",
+            "Cheese"
+        ],
+        "instructions": [
+            "Stuff peppers with meat, rice, sauce",
+            "Top with cheese, bake"
+        ],
+        "category": "Dinner",
+        "calories": 350,
+        "carbs": 30,
+        "protein": 20
+    },
+    "Brownies": {
+        "name": "Brownies",
+        "ingredients": [
+            "Chocolate",
+            "Butter",
+            "Sugar",
+            "Eggs",
+            "Flour"
+        ],
+        "instructions": [
+            "Mix ingredients",
+            "Bake in a pan until set"
+        ],
+        "category": "Dessert",
+        "calories": 350,
+        "carbs": 45,
+        "protein": 4
+    },
+    "Apple Pie": {
+        "name": "Apple Pie",
+        "ingredients": [
+            "Pie crust",
+            "Apples",
+            "Sugar",
+            "Cinnamon",
+            "Butter"
+        ],
+        "instructions": [
+            "Fill crust with apple mixture",
+            "Bake until golden"
+        ],
+        "category": "Dessert",
+        "calories": 300,
+        "carbs": 50,
+        "protein": 2
+    },
+    "Cheesecake": {
+        "name": "Cheesecake",
+        "ingredients": [
+            "Cream cheese",
+            "Sugar",
+            "Eggs",
+            "Graham cracker crust"
+        ],
+        "instructions": [
+            "Mix cream cheese, sugar, eggs",
+            "Pour into crust, bake"
+        ],
+        "category": "Dessert",
+        "calories": 400,
+        "carbs": 30,
+        "protein": 6
+    },
+    "Pudding": {
+        "name": "Pudding",
+        "ingredients": [
+            "Milk",
+            "Sugar",
+            "Cornstarch",
+            "Vanilla extract"
+        ],
+        "instructions": [
+            "Cook ingredients until thick",
+            "Chill until set"
+        ],
+        "category": "Dessert",
+        "calories": 150,
+        "carbs": 25,
+        "protein": 3
+    },
+    "Fruit Salad": {
+        "name": "Fruit Salad",
+        "ingredients": [
+            "Assorted fresh fruits",
+            "Honey",
+            "Mint"
+        ],
+        "instructions": [
+            "Mix fruits",
+            "Drizzle with honey",
+            "Garnish with mint"
+        ],
+        "category": "Dessert",
+        "calories": 120,
+        "carbs": 30,
+        "protein": 1
+    },
+    "Cupcakes": {
+        "name": "Cupcakes",
+        "ingredients": [
+            "Flour",
+            "Sugar",
+            "Eggs",
+            "Butter",
+            "Frosting"
+        ],
+        "instructions": [
+            "Bake cupcakes",
+            "Cool",
+            "Apply frosting"
+        ],
+        "category": "Dessert",
+        "calories": 280,
+        "carbs": 35,
+        "protein": 3
+    },
+    "Lemon Bars": {
+        "name": "Lemon Bars",
+        "ingredients": [
+            "Flour",
+            "Butter",
+            "Sugar",
+            "Lemon juice",
+            "Eggs"
+        ],
+        "instructions": [
+            "Bake crust",
+            "Add lemon topping",
+            "Bake again"
+        ],
+        "category": "Dessert",
+        "calories": 230,
+        "carbs": 30,
+        "protein": 2
+    },
+    "Ice Cream": {
+        "name": "Ice Cream",
+        "ingredients": [
+            "Milk",
+            "Sugar",
+            "Cream",
+            "Vanilla extract"
+        ],
+        "instructions": [
+            "Mix ingredients",
+            "Churn in ice cream maker",
+            "Freeze"
+        ],
+        "category": "Dessert",
+        "calories": 200,
+        "carbs": 20,
+        "protein": 3
+    },
+    "Rice Pudding": {
+        "name": "Rice Pudding",
+        "ingredients": [
+            "Rice",
+            "Milk",
+            "Sugar",
+            "Cinnamon"
+        ],
+        "instructions": [
+            "Cook rice in milk and sugar",
+            "Serve with cinnamon"
+        ],
+        "category": "Dessert",
+        "calories": 180,
+        "carbs": 35,
+        "protein": 4
+    },
+    "Chocolate Mousse": {
+        "name": "Chocolate Mousse",
+        "ingredients": [
+            "Chocolate",
+            "Cream",
+            "Sugar",
+            "Eggs"
+        ],
+        "instructions": [
+            "Melt chocolate",
+            "Fold in whipped cream and egg whites"
+        ],
+        "category": "Dessert",
+        "calories": 270,
+        "carbs": 25,
+        "protein": 3
+    },
+    "Hummus": {
+        "name": "Hummus",
+        "ingredients": [
+            "Chickpeas",
+            "Tahini",
+            "Lemon juice",
+            "Garlic",
+            "Olive oil"
+        ],
+        "instructions": [
+            "Blend ingredients until smooth",
+            "Serve with veggies or pita"
+        ],
+        "category": "Snack",
+        "calories": 150,
+        "carbs": 14,
+        "protein": 5
+    },
+    "Guacamole": {
+        "name": "Guacamole",
+        "ingredients": [
+            "Avocados",
+            "Lime juice",
+            "Onion",
+            "Tomatoes",
+            "Cilantro"
+        ],
+        "instructions": [
+            "Mash avocados",
+            "Mix in other ingredients"
+        ],
+        "category": "Snack",
+        "calories": 200,
+        "carbs": 12,
+        "protein": 3
+    },
+    "Trail Mix": {
+        "name": "Trail Mix",
+        "ingredients": [
+            "Nuts",
+            "Seeds",
+            "Dried fruits",
+            "Chocolate chips"
+        ],
+        "instructions": [
+            "Mix all ingredients together"
+        ],
+        "category": "Snack",
+        "calories": 180,
+        "carbs": 20,
+        "protein": 6
+    },
+    "Bruschetta": {
+        "name": "Bruschetta",
+        "ingredients": [
+            "Baguette",
+            "Tomatoes",
+            "Basil",
+            "Garlic",
+            "Olive oil"
+        ],
+        "instructions": [
+            "Top toasted baguette slices with tomato mixture"
+        ],
+        "category": "Snack",
+        "calories": 120,
+        "carbs": 15,
+        "protein": 4
+    },
+    "Fruit Kebabs": {
+        "name": "Fruit Kebabs",
+        "ingredients": [
+            "Strawberries",
+            "Grapes",
+            "Melon"
+        ],
+        "instructions": [
+            "Thread fruit pieces onto skewers"
+        ],
+        "category": "Snack",
+        "calories": 80,
+        "carbs": 20,
+        "protein": 1
+    },
+    "Energy Balls": {
+        "name": "Energy Balls",
+        "ingredients": [
+            "Oats",
+            "Peanut butter",
+            "Honey",
+            "Dried fruits",
+            "Nuts"
+        ],
+        "instructions": [
+            "Mix ingredients",
+            "Roll into balls",
+            "Chill"
+        ],
+        "category": "Snack",
+        "calories": 150,
+        "carbs": 18,
+        "protein": 5
+    },
+    "Cheese and Crackers": {
+        "name": "Cheese and Crackers",
+        "ingredients": [
+            "Assorted cheeses",
+            "Crackers",
+            "Grapes"
+        ],
+        "instructions": [
+            "Arrange cheese slices and crackers on a platter"
+        ],
+        "category": "Snack",
+        "calories": 250,
+        "carbs": 20,
+        "protein": 10
+    },
+    "Popcorn": {
+        "name": "Popcorn",
+        "ingredients": [
+            "Popcorn kernels",
+            "Oil",
+            "Salt"
+        ],
+        "instructions": [
+            "Pop the kernels",
+            "Season with salt"
+        ],
+        "category": "Snack",
+        "calories": 100,
+        "carbs": 15,
+        "protein": 3
+    },
+    "Veggie Chips": {
+        "name": "Veggie Chips",
+        "ingredients": [
+            "Sweet potatoes",
+            "Beets",
+            "Carrots",
+            "Olive oil",
+            "Salt"
+        ],
+        "instructions": [
+            "Bake thinly sliced veggies until crispy"
+        ],
+        "category": "Snack",
+        "calories": 110,
+        "carbs": 16,
+        "protein": 2
+    },
+    "Greek Yogurt Dip": {
+        "name": "Greek Yogurt Dip",
+        "ingredients": [
+            "Greek yogurt",
+            "Cucumber",
+            "Garlic",
+            "Herbs"
+        ],
+        "instructions": [
+            "Mix yogurt with finely chopped cucumber and herbs"
+        ],
+        "category": "Snack",
+        "calories": 90,
+        "carbs": 6,
+        "protein": 8
+    }
+}
