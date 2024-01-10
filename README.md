@@ -19,8 +19,8 @@ The Recipe Manager Application is an interactive, console-based Python program d
 
 ## Setup and Usage
 1. Clone the repository: https://github.com/angelinedorvil/Recipes.git
-2. Navigate to the project directory: 
-3. Run the application: python main.py
+2. Navigate to the project directory: cd Recipe-Manager-Application
+3. Run the application: python main.py initial_recipes.json recipes.json
 
 
 ## Project Status
